@@ -1,4 +1,4 @@
-Bootstrap:docker  
+Bootstrap:docker
 From: eric716/tensorflow-18.12-py3:v1
 
 %post  
